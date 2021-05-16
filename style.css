@@ -18,15 +18,21 @@ body {
 }
 .navbar-nav {
     display: flex;
-    justify-content: right;
     min-width: 300px;
     list-style: none;
   }
   
 .navbar-nav a {
     display: flex;
-    justify-content: flex-end;
     padding:5px;
     margin:10px;
     text-decoration: none;
 }
+
+.social {
+    font-size: 26px;
+    margin: 30px;
+}
+ .portraitPhoto {
+     max-height: 600px;
+ }
