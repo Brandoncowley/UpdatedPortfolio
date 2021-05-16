@@ -13,5 +13,5 @@ LINK TO LIVE PROJECT:
 
 https://brandoncowley.github.io/UpdatedPortfolio/
 
-![Screenshot of the operational website.](./assets/PortfolioScreenshot.png)
+![Screenshot of the operational website.](./Assets.PortfolioScreenshot.png)
 
