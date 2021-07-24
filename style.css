@@ -12,22 +12,35 @@ body {
     font-weight: 700;
 
 }
-  
-.nav-name {
-    color: blue;
+.navbar{
+    border-bottom:3px solid #0D6EFD;
 }
+
 .navbar-nav {
     display: flex;
     min-width: 300px;
     list-style: none;
-  }
-  
+    padding-left: 0rem;
+}
+
 .navbar-nav a {
     display: flex;
     padding:5px;
     margin:10px;
     text-decoration: none;
 }
+
+a.navbar-brand {
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.navbar-toggler-icon {
+    background-color: #0D6EFD;
+    border-radius: 15%;
+    height: 20px;
+    width: 20px;
+ }
 
 .social {
     font-size: 26px;
@@ -36,3 +49,4 @@ body {
  .portraitPhoto {
      max-height: 600px;
  }
+
